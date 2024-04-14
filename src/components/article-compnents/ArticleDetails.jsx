@@ -67,7 +67,7 @@ Morbi efficitur auctor metus, id mollis lorem pellentesque id. Nullam posuere ma
 <img src="assets/images/17.png" alt="" />
 
 <p className=' text-center font-serif py-2' >
-Image caption centered this way and I’ll make this a bit longer <br/>  to indicate the amount of line-height. 
+Image caption centered this way and I’ll make this a bit longer <br/> to indicate the amount of line-height. 
 
 </p>
 

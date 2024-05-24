@@ -7,7 +7,7 @@ export default    function Articles () {
 
             <h1 className="text-center mt-7 font-serif font-bold text-2xl" >All Articles </h1>
 
-            <div className=" grid  xs:grid-cols-1     sm:grid-cols-2 mt-8 w-[600px] mx-auto gap-x-12  py-9 gap-y-9 ">
+            <div className=" grid  xs:grid-cols-1     sm:grid-cols-2 mt-8 lg:w-[600px] mx-auto gap-x-12  py-9 gap-y-9 ">
 
             <Link to="/article">    
             

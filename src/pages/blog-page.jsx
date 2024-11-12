@@ -8,6 +8,7 @@ export default function BlogPage(){
 
 return(
 <Layout>
+ 
 <HeroSection/>  
 <Articles/>      
 

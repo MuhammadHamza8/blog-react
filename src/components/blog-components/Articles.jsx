@@ -85,7 +85,7 @@ export default    function Articles () {
                 <div>
                     <img src="assets/images/9.png" alt="" />
                     <p className="text-lg font-serif font-medium  sm:text-center ">
-                        Here are some things you<br /> should know regarding how <br /> we work
+                       AWS Staging Here are some things you<br /> should know regarding how <br /> we work
                     </p>
                 </div>
                 </Link>

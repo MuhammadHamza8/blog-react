@@ -8,7 +8,7 @@ export default function BlogPage(){
 
 return(
 <Layout>
-  <p>AWS Deployment<p/>
+ 
 <HeroSection/>  
 <Articles/>      
 

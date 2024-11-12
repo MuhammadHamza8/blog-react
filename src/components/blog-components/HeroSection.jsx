@@ -11,7 +11,7 @@ export default function HeroSection() {
                 A Few Words About this Blog<br /> Platform Ghost, and How this<br /> site was Made
             </h1>
             <p className="text-lg font-serif font-family:Cambria text-center mt-2" >
-                Why Ghost (&Figmia ) Instead of Medium,<br />  WordPress or other option?
+                AWS Deployment,<br />  WordPress or other option?
 
             </p>
 

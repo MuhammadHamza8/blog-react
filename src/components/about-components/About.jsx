@@ -44,6 +44,9 @@ export default function About() {
           <p className="text-lg font-serif font-medium text-center ">
             Updated content <br /> Updated content <br /> we work
           </p>
+            <p className="text-lg font-serif font-medium text-center ">
+            Updated content <br /> Tested aws <br /> we work
+          </p>
         </div>
 
         {/* next */}
